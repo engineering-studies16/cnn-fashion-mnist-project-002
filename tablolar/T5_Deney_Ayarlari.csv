@@ -1,0 +1,4 @@
+﻿Deney,Rastgelelik Tohumu,Epoch,Batch Size,Öğrenme Oranı,Test Doğruluğu (%),Test Kaybı
+1. Deney,42,10,128,0.001,86.69,0.3624
+2. Deney,42,10,128,0.001,87.08,0.3568
+3. Deney,42,10,128,0.001,86.57,0.3637

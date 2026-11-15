@@ -1,0 +1,15 @@
+﻿Parametre,Değer
+Model türü,CNN
+Evrişim katmanı sayısı,3
+1. evrişim filtresi,"32 adet, 3×3"
+2. evrişim filtresi,"64 adet, 3×3"
+3. evrişim filtresi,"128 adet, 3×3"
+Aktivasyon fonksiyonu,ReLU
+Havuzlama yöntemi,MaxPooling2D
+Optimizer,Adam
+Öğrenme oranı,0.001
+Dropout oranı,0.3
+Kayıp fonksiyonu,Sparse Categorical Crossentropy
+Batch size,128
+Epoch sayısı,10
+Early Stopping patience,3

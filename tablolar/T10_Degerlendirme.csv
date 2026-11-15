@@ -1,0 +1,7 @@
+﻿Değerlendirme Kriteri,Değerlendirme
+Ortalama test doğruluğu,"%86,78 ortalama test doğruluğu elde edilmiştir."
+Deneyler arası tutarlılık,Üç deneyin sonuçları birbirine yakındır.
+Model mimarisi,Üç evrişim katmanlı CNN mimarisi kullanılmıştır.
+Sınıflandırma performansı,"Performans sınıf bazlı precision, recall ve F1-score ile incelenmiştir."
+Hata analizi,En sık karıştırılan sınıflar belirlenmiştir.
+Genel sonuç,CNN modeli Fashion-MNIST sınıflandırmasında başarılı sonuç vermiştir.
