@@ -1,0 +1,1 @@
+CNN ödevine ait grafikler
