@@ -1,0 +1,4 @@
+Yazar,Yontem,Veri_Seti,Dogruluk
+Nocentini et al. (2022),MCNN15,Fashion-MNIST,%94.04
+Mukhamediev (2024),CNN-3-128 ve veri artirma,Fashion-MNIST,%99.65
+Bu calisma (2026),CNN tabanli siniflandirma modeli,Fashion-MNIST,%86.78
