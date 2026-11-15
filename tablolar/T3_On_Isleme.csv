@@ -1,0 +1,7 @@
+Islem,Aciklama
+Veri setinin yuklenmesi,Fashion-MNIST veri seti kullanilmistir.
+Piksel normalizasyonu,Piksel degerleri 0-255 araligindan 0-1 araligina donusturulmustur.
+Boyut duzenleme,Goruntuler 28x28x1 boyutunda gri tonlamali veri olarak duzenlenmistir.
+Egitim-dogrulama ayrimi,60000 egitim ornegi 54000 egitim ve 6000 dogrulama ornegi olarak ayrilmistir.
+Ayirma yontemi,Stratified ayirma ve random_state=42 kullanilmistir.
+Test verisi,10000 test ornegi ayri olarak degerlendirilmistir.
